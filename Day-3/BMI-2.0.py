@@ -35,7 +35,6 @@
 # "Your BMI is 33, you are obese."
 # "Your BMI is 40, you are clinically obese."
 # Hint
-
 # Try to use the exponent operator in your code.
 # Remember to round your result to the nearest whole number.
 # Make sure you include the words in bold from the interpretations.
