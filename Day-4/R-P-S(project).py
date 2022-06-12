@@ -51,11 +51,11 @@ comp_choice = random.randint(0, 2)
 
 if user_choice == 0:
     print(rock)
-    if comp_choice == 3:
+    if comp_choice == 2:
         print(scissors)
         print("computer choice:")
         print("You Win!! 😃😃")
-    elif comp_choice == 2:
+    elif comp_choice == 1:
         print(paper)
         print("computer choice:")
         print("You Lose!! 😩😩")
@@ -70,7 +70,7 @@ elif user_choice == 1:
         print(rock)
         print("computer choice:")
         print("You Win!! 😃😃")
-    elif comp_choice == 3:
+    elif comp_choice == 2:
         print(scissors)
         print("computer choice:")
         print("You Lose!! 😩😩")
